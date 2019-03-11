@@ -1,4 +1,4 @@
-package br.com.mdev.extensions
+package br.com.mdev.extension
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

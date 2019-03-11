@@ -1,4 +1,4 @@
-package br.com.mdev.extensions
+package br.com.mdev.extension
 
 import java.text.DateFormat
 import java.util.*
